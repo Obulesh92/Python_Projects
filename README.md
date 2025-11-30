@@ -6,7 +6,7 @@
 
 ---
 
-### PROFESSIONAL SUMMARY
+### SUMMARY
 Final-year B.Tech CSE student with hands-on experience in **Python and Django**. Built and deployed two full Django + SQLite web applications (Blog & To-Do List). Comfortable with models, views, templates, admin panel, and Render deployment. Ready to write clean Python code and contribute from day one.
 
 ---
