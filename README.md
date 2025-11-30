@@ -33,8 +33,6 @@ The Nandyal Public School, Nandyal
 ### PROJECTS
 
 **Django To-Do List Application** Dec 2025  
-Live : (add Render link when deployed)  
-GitHub: https://github.com/Obulesh92/django-todo  
 → Full To-Do app built with Django + SQLite  
 → Add, edit, delete, and mark-complete tasks  
 → Responsive design with Bootstrap
